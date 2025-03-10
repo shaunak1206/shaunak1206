@@ -14,9 +14,9 @@ Welcome to my GitHub! I'm an **Electrical & Computer Engineering** student at **
 * **Specialties:** Machine Learning, Computer Vision, Federated Learning, Data Analysis
 
 ## 🚀 Projects
-* 🏡 **[Econest](https://yourprojectlink.com/econest):** Eco-friendly website with 3D home visualization and AI recommendations
-* 🏥 **[HealthGPT](https://yourprojectlink.com/healthgpt):** Health insights app using OpenAI's API for medical recommendations
-* 🌌 **[Galaxy Adventures](https://yourprojectlink.com/galaxy-adventures):** Space tourism web application with interactive visualizations
+* 🏡 **[Econest](https://eco-nest.vercel.app/):** Eco-friendly website with 3D home visualization and AI recommendations
+* 🏥 **[HealthGPT](https://healthgpt-iota.vercel.app/):** Health insights app using OpenAI's API for medical recommendations
+* 🌌 **[Galaxy Adventures](https://galaxyadventures.vercel.app/):** Space tourism web application with interactive visualizations
 
 ## 🔍 What I'm Looking For
 * **Collaborative Projects:** If you're working on something cool, I'd love to hear about it!
