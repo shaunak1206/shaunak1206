@@ -1,32 +1,73 @@
 # 👋 Hello, I'm Shaunak Kapur!
 
-Welcome to my GitHub! I'm an **Electrical & Computer Engineering** student at **UT Austin** with a focus on **Software Engineering & Data Science**. I'm passionate about leveraging technology to solve complex problems and am constantly seeking new challenges to expand my knowledge.
+Welcome to my GitHub! 
+
+I'm an **Electrical & Computer Engineering student at UT Austin** with a focus on **Software Engineering & Data Science**.  
+I’m passionate about building technology that bridges research, engineering, and real-world impact.
+
+---
 
 ## 🔬 Research & Experience
-* 🧠 **Machine Learning Research:** Working on healthcare applications of AI, focusing on medical imaging analysis and bias reduction
-* 🌐 **AI Development:** Experience training and optimizing models for natural language processing and conversational systems
-* 💼 **Business & Tech:** Analyzed emerging technology startups and market trends in venture capital environments
-* 🧬 **Computational Research:** Contributed to multiple academic labs in genomics, federated learning, and computer vision
+- **Engineering Intern @ Uber**
+  - Autonomous Mobility & Mapping.
+- **Machine Learning Researcher @ Harvard Medical School & MGH**  
+  - Glaucoma detection, algorithmic bias, and medical imaging (improved model bias by 38%).  
+- **AI Safety Researcher @ UC Berkeley**  
+  - Technical compliance frameworks for CA AI legislation; safety standards for transformer/diffusion models.  
+- **Machine Learning Researcher @ Brown RISE Lab**  
+  - Fairness in COMPAS bail algorithms & AWS hiring models using adversarial networks.  
+- **Computational Algorithm Researcher @ USC Mangul Lab**  
+  - Genomics metadata coverage; immunogenetics analysis using Python & MiXCR.  
+- **Embedded Software Intern @ Haylon Technologies**  
+  - Firmware for intelligent BMS, PCB layouts for adaptive charging, solid-state battery analysis.  
+- **ML Researcher @ University of Houston AI-NTS Lab**  
+  - Federated learning optimization & biometric computer vision systems.  
+
+---
 
 ## 💻 Technical Skills
-* **Languages:** Python, R, Java, JavaScript, C++, C, Assembly, MATLAB, HTML/CSS, SQL, Swift
-* **Tools & Frameworks:** Next.js, TypeScript, TailwindCSS, Framer Motion, OpenAI API
-* **Specialties:** Machine Learning, Computer Vision, Federated Learning, Data Analysis
+**Languages**: Python, Java, JavaScript, Swift, Kotlin, C++, C, Go, Rust, Assembly, MATLAB, HTML, SQL, R, PHP  
+**Frameworks & Tools**: Next.js, TypeScript, TailwindCSS, Framer Motion, OpenAI API  
+**Specialties**: Machine Learning, Computer Vision, Federated Learning, Embedded Systems, Data Analysis  
+
+---
 
 ## 🚀 Projects
-* 🏡 **[Econest](https://eco-nest.vercel.app/):** Eco-friendly website with 3D home visualization and AI recommendations
-* 🏥 **[HealthGPT](https://healthgpt-iota.vercel.app/):** Health insights app using OpenAI's API for medical recommendations
-* 🌌 **[Galaxy Adventures](https://galaxyadventures.vercel.app/):** Space tourism web application with interactive visualizations
+- **[Econest](https://eco-nest.vercel.app/)**  
+  Eco-friendly platform with 3D home visualization and AI-driven recommendations.  
+- **[HealthGPT](https://healthgpt-iota.vercel.app/)**  
+  AI-powered health insights app leveraging OpenAI’s API for medical recommendations.  
+- **[Galaxy Adventures](https://galaxyadventures.vercel.app/)**  
+  Space tourism web app with interactive trip planning and animations.  
+
+---
+
+## 📄 Publications
+- **[Global Trends in Clinical Trials Involving Engineered Biomaterials](https://www.science.org/doi/10.1126/sciadv.abq0997)** – *Science Journal, July 2024*  
+- **[Assessing Completeness of Public Metadata for Omics Studies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03725-0)** – *Genome Biology, Dec 2023*  
+
+---
+
+## 🏆 Honors & Awards
+- GE-Reagan Foundation Scholar Semifinalist  
+- TSA Nationals (4th place, Webmasters)  
+- CS Youth of America International Hackathon (5th place, Advanced Division)  
+- VEX Robotics Worlds (10th place, Technology Division)  
+- FRC Robotics Worlds (11th place, Carver Division)  
+
+---
 
 ## 🔍 What I'm Looking For
-* **Collaborative Projects:** If you're working on something cool, I'd love to hear about it!
-* **Internships & Research Opportunities:** Especially in **AI, software engineering, and startups**
-* **Open-Source Contributions:** I'm eager to contribute to impactful projects
+- **Internships & Research** in AI, software engineering, and emerging technologies  
+- **Collaborative Projects** at the intersection of engineering and design  
+- **Open Source Contributions** that drive impact in ML, systems, and software  
 
-## 📫 Let's Connect!
-* 📧 Email: shaunakkapur12@gmail.com
-* 📱 Phone: 512-985-8476
-* 🔗 LinkedIn: [Shaunak Kapur](https://www.linkedin.com/in/shaunak-kapur/)
-* 📍 Location: Austin & Houston, Texas
+---
 
-I'm always open to collaboration on innovative projects at the intersection of AI, software development, and data science!
+## 📫 Let’s Connect!
+📧 [shaunakkapur12@gmail.com](mailto:shaunakkapur12@gmail.com)  
+📱 512-985-8476  
+🔗 [LinkedIn](https://www.linkedin.com/in/shaunak-kapur)  
+📍 Austin & Houston, Texas  
+
+Always open to collaboration on **AI, software engineering, and product innovation** 🚀
